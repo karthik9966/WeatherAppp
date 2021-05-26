@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/karthik9966/WeatherAppp.git/static/css/main.b0eb53f9.chunk.css",
+    "main.js": "/karthik9966/WeatherAppp.git/static/js/main.ba1a123c.chunk.js",
+    "main.js.map": "/karthik9966/WeatherAppp.git/static/js/main.ba1a123c.chunk.js.map",
+    "runtime-main.js": "/karthik9966/WeatherAppp.git/static/js/runtime-main.8ac27ab9.js",
+    "runtime-main.js.map": "/karthik9966/WeatherAppp.git/static/js/runtime-main.8ac27ab9.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/karthik9966/WeatherAppp.git/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.f87b5c4d.chunk.js": "/karthik9966/WeatherAppp.git/static/js/2.f87b5c4d.chunk.js",
+    "static/js/2.f87b5c4d.chunk.js.map": "/karthik9966/WeatherAppp.git/static/js/2.f87b5c4d.chunk.js.map",
+    "static/js/3.6cc92409.chunk.js": "/karthik9966/WeatherAppp.git/static/js/3.6cc92409.chunk.js",
+    "static/js/3.6cc92409.chunk.js.map": "/karthik9966/WeatherAppp.git/static/js/3.6cc92409.chunk.js.map",
+    "index.html": "/karthik9966/WeatherAppp.git/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/karthik9966/WeatherAppp.git/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.b0eb53f9.chunk.css.map": "/karthik9966/WeatherAppp.git/static/css/main.b0eb53f9.chunk.css.map",
+    "static/js/2.f87b5c4d.chunk.js.LICENSE.txt": "/karthik9966/WeatherAppp.git/static/js/2.f87b5c4d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8ac27ab9.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.f87b5c4d.chunk.js",
+    "static/css/main.b0eb53f9.chunk.css",
+    "static/js/main.ba1a123c.chunk.js"
+  ]
+}
